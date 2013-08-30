@@ -1,0 +1,36 @@
+PBasic-Led-Chain
+================
+
+' {$STAMP BS2}
+' {$PBASIC 2.5}
+
+DO
+
+HIGH 0
+PAUSE 500
+LOW 0
+
+PAUSE 100
+
+HIGH 1
+PAUSE 500
+LOW 1
+
+PAUSE 100
+
+HIGH 2
+PAUSE 500
+LOW 2
+
+PAUSE 100
+
+HIGH 3
+PAUSE 500
+LOW 3
+
+PAUSE 100
+
+LOOP
+
+
+
